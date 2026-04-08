@@ -1,4 +1,3 @@
-from turtle import mode
 from ml.ml_runtime.feature_builder import build_features_from_transactions
 from ml.ml_runtime.model_loader import FHIModel
 from ml.ml_runtime.feature_builder import build_features_from_transactions
